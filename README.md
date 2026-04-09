@@ -1,5 +1,5 @@
-### Hey, I'm Fucheng 👋
+### Hey, I'm Fu 👋
 
-Backend engineer turned AI builder. 10+ years making distributed systems behave, now making AI agents behave.
+10+ years in backend & distributed systems. Now building AI agent systems and exploring Web3.
 
-🔧 **Recently into:** AI agent systems, eval & observability for LLM apps, voice AI, Code Agent workflows
+🔧 **Recently into:** AI agents, eval & observability for LLM apps, voice AI, Code Agent workflows, Web3
