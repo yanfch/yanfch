@@ -1,14 +1,16 @@
-   ### Hey, I'm Fu 👋
+### Hey, I'm Fu 👋
 
-   10+ years in backend & distributed systems. Now building AI agent systems and exploring Web3.
+Backend engineer with 10+ years in distributed systems.  
+These days I'm building small AI-native tools around agents, voice, and developer workflows.
 
-   🔧 **Recently into:** AI agents, eval & observability for LLM apps, voice AI, Code Agent workflows, Web3
+🔧 **Recently into:** AI agents, LLM app observability, voice AI, code-agent workflows, Web3
 
-   ---
+---
 
-   ### 🚧 Building in private
+### 🚧 Building in public
 
-   - 🎙️ **tsutae** (伝え) — Voice → any system. Press a hotkey, speak, transcription POSTs wherever you want.
-   - 🎼 **kanade** (奏) — Multi-agent workflow runtime. LLM writes scripts, you save the good ones.
+- 🎙️ **tsutae** (伝え) — A macOS voice input tool. Press a hotkey, speak, and send the transcript to any system.
+- 🎼 **kanade** (奏) — A multi-agent workflow runtime. Let LLMs write executable workflows, then keep the ones that work.
+- 📊 **shirabe** (調べ) — Local analytics for AI coding agents. Inspect sessions, usage, tools, and workflow traces from your own machine.
 
-   Both alpha. Going public when stable.
+These are early-stage projects. I'm mostly a backend engineer, so part of the work is learning how to make the UI feel useful, simple, and shippable.
