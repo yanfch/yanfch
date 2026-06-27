@@ -9,8 +9,8 @@ Now building AI-native tools for agents, voice, and developer workflows.
 
 ### 🚧 Building in public
 
-- **tsutae** (伝え) — macOS voice input that sends transcripts anywhere.
-- **kanade** (奏) — multi-agent workflow runtime for executable LLM-generated workflows.
-- **shirabe** (調べ) — local analytics for AI coding-agent sessions, usage, and traces.
+- **[tsutae](https://github.com/yanfch/tsutae)** (伝え) — macOS voice input that sends transcripts anywhere.
+- **[kanade](https://github.com/yanfch/kanade)** (奏) — multi-agent workflow runtime for executable LLM-generated workflows.
+- **[shirabe](https://github.com/yanfch/shirabe)** (調べ) — local analytics for AI coding-agent sessions, usage, and traces.
 
 Early-stage. Backend-first, learning the UI side by shipping small tools.
